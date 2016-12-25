@@ -2,7 +2,7 @@
   "name": "vue-perfect-scrollbar",
   "description": "A scrollbar beautify module, build with vuejs, rely on perfect-scroll.js.",
   "author": "CheneyLiu <lhy6551@qq.com>",
-  "version": "0.1",
+  "version": "0.6.25",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
